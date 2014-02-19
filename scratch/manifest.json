@@ -1,7 +1,7 @@
 {
-  "name": "plugin name",
+  "name": "TEST",
   "version": "0",
-  "description": "What do I do as an extension",
+  "description": "TEST editing DOM",
   "background": {"page": "background.html"},
   "manifest_version": 2,
   "browser_action": {

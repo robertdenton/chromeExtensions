@@ -1,1 +1,2 @@
-alert("hello");
+console.log('hello');
+$("h1").remove();
