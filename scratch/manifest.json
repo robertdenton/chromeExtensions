@@ -10,7 +10,8 @@
     "default_icon": "icon.png"
   },
   "content_scripts": [ {
+    "css": ["newstyle.css"],
     "js": [ "jquery.min.js", "background.js" ],
-    "matches": [ "http://*/*", "https://*/*"]
+    "matches": [ "http://www.dailycamera.com/*", "http://www.denverpost.com/*"]
   }]
 }
