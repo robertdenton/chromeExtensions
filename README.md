@@ -13,3 +13,5 @@ Anyway, the extension gets rid of most of the visual elements, ads and converts 
 To try the extension out for yourself, download the whole "scratch" folder and go to Chrome's Tools > Extensions. Make sure "Developer Mode" is checked and then click "Load Unpacked Extension". This will open up a file browser and all you need to do is select the "scratch" folder from your downloads folder and you should be good to go. To turn the extension off, simply disable it in the Tools > Extensions menu.
 
 Enjoy!
+
+And feel free to edit, change, distribute or do whatever you want with the code.
